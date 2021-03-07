@@ -15,7 +15,7 @@ body {
 }
 
 .todo_list {
-    max-width: 400px;
+    max-width: 300px;
     display: block;
     margin: 0 auto 40px;
     background-color: #1BA39C;
@@ -38,7 +38,7 @@ h1 {
 }
 
 input[type=text] {
-    width: 376px;
+    width: 276px;
     padding: 10px; 
 }
 
